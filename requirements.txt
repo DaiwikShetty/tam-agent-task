@@ -1,0 +1,5 @@
+pandas>=2.0
+# Install the SDK for the provider you use:
+# anthropic
+# openai
+# No other libraries needed (BM25 and stemming are implemented in tam_agent/search.py).
