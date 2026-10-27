@@ -1,0 +1,201 @@
+account_id,company_name,domain,industry,region,tier,arr_band,contract_start,renewal_date,modules_licensed,sso_enabled_date,open_escalations,last_qbr_date,nps_last
+ACC-1633,Frostline Retail Group,frostline-retail-group.example,Retail,APAC,Standard,100k-250k,2020-05-23,2027-06-17,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,,0,,8
+ACC-6031,Riverbend Health,riverbend-health.example,Healthcare,APAC,Enterprise,250k-500k,2025-08-10,2026-12-05,Contracts;Platform;Sourcing;Spend Analytics;eInvoice,2024-01-12,0,2026-07-04,9
+ACC-3737,Clearwater Manufacturing,clearwater-manufacturing.example,Manufacturing,EMEA,Standard,100k-250k,2022-04-08,2027-08-16,Contracts;Platform;Sourcing,,0,,6
+ACC-3600,Brightfield Energy,brightfield-energy.example,Energy,EMEA,Standard,<100k,2023-07-28,2027-05-18,Integrations;Platform;Sourcing;eProcurement,2023-05-02,0,,9
+ACC-3751,Brightfield Manufacturing,brightfield-manufacturing.example,Manufacturing,EMEA,Premium,1M+,2024-01-03,2026-12-04,Contracts;Platform;Supplier Management;eInvoice,,0,2026-05-13,5
+ACC-1793,Meadowbrook Utilities,meadowbrook-utilities.example,Utilities,North America,Standard,<100k,2019-08-27,2026-11-26,Contracts;Integrations;Platform;Sourcing;eInvoice;eProcurement,2021-05-23,0,,8
+ACC-2431,Pinecrest Logistics,pinecrest-logistics.example,Logistics,EMEA,Premium,1M+,2020-06-07,2026-12-20,Contracts;Platform;Spend Analytics;Supplier Management;eProcurement,2021-07-22,2,2026-09-04,4
+ACC-5057,Ironleaf Energy,ironleaf-energy.example,Energy,LATAM,Premium,1M+,2019-04-25,2027-03-13,Integrations;Platform;Sourcing;Supplier Management;eInvoice,,0,2026-04-13,
+ACC-6970,Stonebridge Health,stonebridge-health.example,Healthcare,EMEA,Standard,<100k,2021-12-01,2027-09-15,Platform;Sourcing;eInvoice;eProcurement,2026-04-21,3,,9
+ACC-8892,Copperfield Brands,copperfield-brands.example,Consumer Goods,EMEA,Enterprise,500k-1M,2020-07-23,2027-05-08,Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2023-02-01,0,2026-06-22,8
+ACC-2507,Frostline Telecom,frostline-telecom.example,Telecom,EMEA,Enterprise,250k-500k,2019-11-01,2027-03-19,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2026-10-14,0,2026-09-02,5
+ACC-1538,Silverline Brands,silverline-brands.example,Consumer Goods,LATAM,Premium,500k-1M,2021-12-20,2027-05-07,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,2020-02-20,0,2026-04-04,9
+ACC-3571,Stonebridge Systems,stonebridge-systems.example,Technology,LATAM,Premium,1M+,2022-12-26,2027-02-23,Contracts;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,,0,2026-05-05,8
+ACC-4499,Redcliff Industries,redcliff-industries.example,Industrial,LATAM,Premium,1M+,2022-04-11,2026-10-30,Contracts;Platform;eInvoice;eProcurement,2022-04-25,1,2026-07-05,7
+ACC-7533,Silverline Energy,silverline-energy.example,Energy,APAC,Enterprise,500k-1M,2025-11-18,2027-08-24,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2022-07-14,0,2026-08-19,9
+ACC-5351,Riverbend Pharma,riverbend-pharma.example,Pharmaceuticals,EMEA,Enterprise,250k-500k,2019-02-27,2027-01-03,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,2022-04-09,0,2026-08-20,
+ACC-7438,Bluepeak Telecom,bluepeak-telecom.example,Telecom,APAC,Premium,500k-1M,2022-12-21,2027-04-12,Contracts;Integrations;Platform;Spend Analytics;Supplier Management,2021-03-17,1,2026-09-21,9
+ACC-4083,Silverline Retail Group,silverline-retail-group.example,Retail,EMEA,Standard,<100k,2025-02-09,2027-09-28,Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,1,,6
+ACC-4850,Ironleaf Foods Europe,ironleaf-foods-europe.example,Food & Beverage,EMEA,Enterprise,250k-500k,2025-07-16,2027-09-05,Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,,10
+ACC-4487,Summit Pharma,summit-pharma.example,Pharmaceuticals,North America,Standard,<100k,2020-11-11,2027-02-24,Platform;Spend Analytics;eInvoice;eProcurement,2023-04-25,1,,6
+ACC-9537,Ironleaf Manufacturing,ironleaf-manufacturing.example,Manufacturing,North America,Enterprise,500k-1M,2020-04-09,2027-01-23,Integrations;Platform;Spend Analytics;Supplier Management,2025-08-06,0,2026-06-04,
+ACC-3266,Redcliff Logistics,redcliff-logistics.example,Logistics,APAC,Premium,500k-1M,2020-08-07,2027-01-28,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2025-06-27,1,2026-04-15,8
+ACC-4052,Harbor Foods,harbor-foods.example,Food & Beverage,EMEA,Premium,1M+,2020-05-19,2027-10-05,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management,2021-01-11,0,2026-08-05,9
+ACC-5714,Silverline Telecom,silverline-telecom.example,Telecom,LATAM,Enterprise,500k-1M,2022-10-09,2027-06-11,Contracts;Integrations;Platform;Spend Analytics;eInvoice;eProcurement,,2,2026-07-14,9
+ACC-1160,Brightfield Industries,brightfield-industries.example,Industrial,APAC,Enterprise,500k-1M,2025-08-23,2027-09-29,Integrations;Platform;eInvoice,2024-03-12,0,2026-09-26,8
+ACC-1856,Lakeshore Retail Group,lakeshore-retail-group.example,Retail,APAC,Enterprise,500k-1M,2021-12-21,2027-05-03,Contracts;Integrations;Platform;Sourcing;Supplier Management,,0,2026-05-08,8
+ACC-8007,Silverline Utilities,silverline-utilities.example,Utilities,EMEA,Enterprise,250k-500k,2022-07-07,2027-06-01,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2020-01-08,0,2026-07-19,9
+ACC-5384,Clearwater Financial,clearwater-financial.example,Financial Services,APAC,Premium,500k-1M,2019-07-21,2026-11-21,Contracts;Integrations;Platform;Sourcing;Supplier Management;eProcurement,2025-07-21,1,2026-06-02,6
+ACC-3263,Suncrest Systems,suncrest-systems.example,Technology,EMEA,Premium,1M+,2024-09-07,2027-08-21,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-07-19,0,2026-04-07,
+ACC-8433,Evergreen Foods,evergreen-foods.example,Food & Beverage,EMEA,Enterprise,250k-500k,2025-05-14,2027-07-15,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2020-05-23,1,2026-09-12,7
+ACC-4300,Evergreen Pharma,evergreen-pharma.example,Pharmaceuticals,LATAM,Enterprise,500k-1M,2025-02-05,2027-07-30,Platform;Spend Analytics;eInvoice,,0,2026-06-21,8
+ACC-6197,Meadowbrook Systems,meadowbrook-systems.example,Technology,EMEA,Premium,1M+,2025-09-04,2027-04-12,Contracts;Platform;Spend Analytics;eInvoice;eProcurement,2024-09-03,1,2026-05-07,8
+ACC-5620,Tidewater Manufacturing,tidewater-manufacturing.example,Manufacturing,North America,Enterprise,500k-1M,2022-06-06,2027-08-11,Contracts;Platform;eInvoice,,0,2026-05-15,5
+ACC-6521,Redcliff Utilities,redcliff-utilities.example,Utilities,APAC,Standard,<100k,2024-11-10,2026-10-31,Contracts;Platform;Spend Analytics;Supplier Management;eProcurement,,1,,9
+ACC-3562,Granite Industries,granite-industries.example,Industrial,North America,Premium,1M+,2021-05-07,2027-03-08,Integrations;Platform;Sourcing;Spend Analytics;eInvoice,,1,2026-08-30,6
+ACC-9388,Ironleaf Utilities,ironleaf-utilities.example,Utilities,LATAM,Standard,100k-250k,2023-04-02,2026-10-30,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,,8
+ACC-1962,Northgate Retail Group,northgate-retail-group.example,Retail,EMEA,Premium,500k-1M,2022-11-06,2027-03-14,Integrations;Platform;Spend Analytics;Supplier Management;eProcurement,,0,2026-08-07,9
+ACC-9898,Silverline Health,silverline-health.example,Healthcare,EMEA,Standard,100k-250k,2021-09-23,2027-05-13,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eProcurement,2022-05-11,1,,8
+ACC-2475,Lakeshore Energy,lakeshore-energy.example,Energy,LATAM,Enterprise,500k-1M,2025-08-05,2027-01-14,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eProcurement,2022-09-23,0,2026-09-01,5
+ACC-9645,Bluepeak Foods,bluepeak-foods.example,Food & Beverage,APAC,Enterprise,500k-1M,2025-11-27,2027-03-06,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,,0,2026-04-04,6
+ACC-7312,Northgate Financial,northgate-financial.example,Financial Services,APAC,Enterprise,500k-1M,2022-11-14,2027-08-07,Contracts;Platform;Supplier Management;eInvoice,2021-08-16,0,2026-09-10,8
+ACC-5261,Brightfield Telecom,brightfield-telecom.example,Telecom,APAC,Standard,100k-250k,2021-02-07,2027-02-28,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,,
+ACC-4290,Westwind Pharma,westwind-pharma.example,Pharmaceuticals,EMEA,Premium,1M+,2022-05-02,2027-06-03,Contracts;Integrations;Platform;Sourcing;eInvoice;eProcurement,,3,2026-04-12,7
+ACC-9658,Copperfield Foods,copperfield-foods.example,Food & Beverage,LATAM,Enterprise,500k-1M,2023-09-14,2027-07-04,Integrations;Platform;Spend Analytics;Supplier Management;eProcurement,,3,2026-05-27,5
+ACC-9186,Starling Industries,starling-industries.example,Industrial,North America,Standard,100k-250k,2022-07-19,2026-10-27,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management,2023-01-06,0,,9
+ACC-8496,Summit Manufacturing,summit-manufacturing.example,Manufacturing,LATAM,Premium,500k-1M,2022-08-08,2027-03-03,Platform;Sourcing;Supplier Management;eInvoice,2023-09-18,0,2026-06-08,6
+ACC-3064,Tidewater Telecom,tidewater-telecom.example,Telecom,APAC,Enterprise,500k-1M,2020-06-12,2027-07-16,Contracts;Platform;Sourcing;eInvoice,2022-01-14,3,2026-09-16,6
+ACC-8880,Granite Manufacturing,granite-manufacturing.example,Manufacturing,EMEA,Standard,100k-250k,2021-07-26,2027-01-08,Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,,10
+ACC-3249,Starling Pharma,starling-pharma.example,Pharmaceuticals,LATAM,Premium,500k-1M,2022-09-18,2027-01-07,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2025-09-05,0,2026-08-30,
+ACC-5950,Bluepeak Systems,bluepeak-systems.example,Technology,APAC,Standard,<100k,2022-05-10,2027-04-13,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2024-02-28,0,,8
+ACC-3372,Meadowbrook Logistics,meadowbrook-logistics.example,Logistics,LATAM,Enterprise,500k-1M,2019-02-04,2026-12-27,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-09-07,0,2026-05-30,8
+ACC-8984,Highmark Utilities,highmark-utilities.example,Utilities,LATAM,Standard,<100k,2023-03-04,2026-11-15,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management,,0,,9
+ACC-2515,Lakeshore Industries,lakeshore-industries.example,Industrial,LATAM,Standard,100k-250k,2025-11-03,2027-09-03,Contracts;Platform;Sourcing;eInvoice;eProcurement,,1,,
+ACC-6303,Starling Manufacturing,starling-manufacturing.example,Manufacturing,APAC,Standard,100k-250k,2020-05-22,2027-01-25,Contracts;Integrations;Platform;Spend Analytics;eInvoice,2023-02-11,2,,8
+ACC-8859,Highmark Pharma,highmark-pharma.example,Pharmaceuticals,North America,Premium,500k-1M,2025-09-17,2026-11-29,Contracts;Integrations;Platform;Sourcing;eInvoice,,0,2026-07-06,8
+ACC-6963,Bluepeak Utilities,bluepeak-utilities.example,Utilities,North America,Enterprise,250k-500k,2019-12-06,2026-11-21,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2020-08-18,0,2026-05-27,8
+ACC-7673,Silverline Manufacturing,silverline-manufacturing.example,Manufacturing,LATAM,Premium,500k-1M,2020-07-05,2027-04-04,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2021-04-27,2,2026-07-17,8
+ACC-6200,Highmark Telecom,highmark-telecom.example,Telecom,North America,Enterprise,250k-500k,2021-05-17,2026-12-18,Integrations;Platform;Spend Analytics,2021-06-27,2,2026-05-06,5
+ACC-6650,Riverbend Manufacturing,riverbend-manufacturing.example,Manufacturing,North America,Enterprise,500k-1M,2022-11-08,2027-10-10,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2026-02-20,1,2026-06-26,7
+ACC-4801,Ironleaf Brands,ironleaf-brands.example,Consumer Goods,EMEA,Standard,<100k,2021-07-23,2027-04-18,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2024-02-01,0,,9
+ACC-6544,Lakeshore Systems,lakeshore-systems.example,Technology,LATAM,Enterprise,500k-1M,2021-11-17,2027-05-27,Integrations;Platform;Sourcing;Spend Analytics,2022-03-01,0,2026-07-03,6
+ACC-2470,Bluepeak Financial,bluepeak-financial.example,Financial Services,EMEA,Premium,500k-1M,2022-12-14,2026-12-24,Integrations;Platform;Sourcing;eInvoice,,0,2026-05-17,8
+ACC-4619,Lakeshore Health,lakeshore-health.example,Healthcare,APAC,Premium,1M+,2025-10-08,2027-08-01,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2026-01-25,0,2026-07-20,9
+ACC-4690,Evergreen Manufacturing,evergreen-manufacturing.example,Manufacturing,LATAM,Standard,100k-250k,2019-01-02,2027-03-11,Contracts;Integrations;Platform;Sourcing;eInvoice,2020-01-12,1,,9
+ACC-4123,Harbor Brands,harbor-brands.example,Consumer Goods,APAC,Enterprise,500k-1M,2019-05-15,2027-02-24,Integrations;Platform;Sourcing;Spend Analytics;eProcurement,2022-03-27,2,2026-07-09,10
+ACC-7918,Coastal Materials,coastal-materials.example,Industrial,APAC,Enterprise,250k-500k,2024-08-09,2026-11-26,Contracts;Integrations;Platform;Spend Analytics;eInvoice;eProcurement,,1,2026-08-03,5
+ACC-7344,Stonebridge Brands,stonebridge-brands.example,Consumer Goods,LATAM,Standard,100k-250k,2023-06-06,2026-11-09,Contracts;Integrations;Platform;Sourcing;eProcurement,2026-05-24,0,,9
+ACC-1008,Suncrest Industries,suncrest-industries.example,Industrial,North America,Enterprise,500k-1M,2019-05-18,2027-02-03,Contracts;Platform;Sourcing;Spend Analytics;eProcurement,,2,2026-07-12,10
+ACC-1705,Meadowbrook Materials,meadowbrook-materials.example,Industrial,North America,Premium,1M+,2024-03-04,2027-03-18,Contracts;Integrations;Platform;Spend Analytics,,0,2026-04-17,6
+ACC-2433,Lakeshore Brands,lakeshore-brands.example,Consumer Goods,EMEA,Enterprise,250k-500k,2024-08-08,2027-01-05,Contracts;Integrations;Platform;Spend Analytics;eProcurement,,0,2026-07-17,9
+ACC-2961,Lakeshore Pharma,lakeshore-pharma.example,Pharmaceuticals,APAC,Premium,500k-1M,2019-06-21,2027-08-31,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,2023-09-12,1,2026-07-13,6
+ACC-7547,Oakridge Brands,oakridge-brands.example,Consumer Goods,LATAM,Standard,100k-250k,2023-10-20,2027-04-01,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,2025-03-05,3,,9
+ACC-6289,Frostline Utilities,frostline-utilities.example,Utilities,EMEA,Premium,1M+,2022-01-11,2026-11-17,Contracts;Integrations;Platform;Spend Analytics;eInvoice;eProcurement,2025-02-28,0,2026-08-04,10
+ACC-9322,Oakridge Retail Group,oakridge-retail-group.example,Retail,North America,Premium,1M+,2021-04-25,2026-12-24,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,2026-02-13,0,2026-05-16,9
+ACC-9523,Lakeshore Financial,lakeshore-financial.example,Financial Services,APAC,Standard,<100k,2023-05-19,2027-05-18,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice,2023-02-09,0,,10
+ACC-4946,Pinecrest Utilities,pinecrest-utilities.example,Utilities,EMEA,Enterprise,250k-500k,2019-01-04,2027-07-15,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,2026-08-08,6
+ACC-5386,Riverbend Retail Group,riverbend-retail-group.example,Retail,LATAM,Standard,100k-250k,2021-02-26,2027-08-10,Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2022-03-01,3,,10
+ACC-2382,Meadowbrook Brands,meadowbrook-brands.example,Consumer Goods,APAC,Premium,500k-1M,2021-01-14,2026-12-08,Contracts;Platform;Supplier Management;eProcurement,2025-02-01,0,2026-05-21,5
+ACC-4907,Summit Logistics,summit-logistics.example,Logistics,North America,Standard,<100k,2022-06-22,2027-05-27,Integrations;Platform;Supplier Management;eProcurement,,1,,9
+ACC-2833,Redcliff Pharma,redcliff-pharma.example,Pharmaceuticals,North America,Enterprise,250k-500k,2021-08-19,2026-12-13,Integrations;Platform;Supplier Management;eInvoice;eProcurement,,0,2026-04-09,
+ACC-3356,Harbor Logistics,harbor-logistics.example,Logistics,EMEA,Enterprise,500k-1M,2022-11-22,2027-07-02,Platform;Spend Analytics;Supplier Management;eInvoice,2024-08-17,0,2026-04-28,9
+ACC-6035,Copperfield Manufacturing,copperfield-manufacturing.example,Manufacturing,LATAM,Standard,<100k,2023-03-05,2026-12-24,Contracts;Integrations;Platform;Sourcing;Supplier Management,2026-02-18,0,,8
+ACC-1639,Ironleaf Systems,ironleaf-systems.example,Technology,APAC,Standard,<100k,2019-07-11,2026-12-07,Integrations;Platform;Spend Analytics;Supplier Management,2024-04-10,0,,6
+ACC-5807,Copperfield Utilities,copperfield-utilities.example,Utilities,North America,Standard,<100k,2019-02-19,2027-08-21,Contracts;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,,2,,9
+ACC-5541,Frostline Industries,frostline-industries.example,Industrial,North America,Standard,<100k,2022-04-12,2027-09-21,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,,9
+ACC-3813,Tidewater Utilities,tidewater-utilities.example,Utilities,APAC,Enterprise,500k-1M,2019-07-07,2027-08-06,Contracts;Platform;Sourcing;eInvoice;eProcurement,2021-01-28,1,2026-04-14,8
+ACC-5021,Meadowbrook Foods,meadowbrook-foods.example,Food & Beverage,EMEA,Enterprise,500k-1M,2019-01-16,2026-11-06,Contracts;Integrations;Platform;Supplier Management;eProcurement,2024-05-10,0,2026-08-09,7
+ACC-7606,Starling Utilities,starling-utilities.example,Utilities,APAC,Premium,1M+,2024-11-19,2027-07-21,Contracts;Integrations;Platform;Supplier Management;eInvoice;eProcurement,2025-01-06,0,2026-04-27,9
+ACC-5528,Westwind Financial,westwind-financial.example,Financial Services,APAC,Enterprise,500k-1M,2025-11-05,2027-05-16,Contracts;Integrations;Platform;Sourcing,2026-02-05,1,2026-09-19,8
+ACC-7387,Suncrest Financial,suncrest-financial.example,Financial Services,North America,Standard,100k-250k,2021-10-11,2027-09-13,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,2020-03-21,0,,6
+ACC-9598,Lakeshore Telecom,lakeshore-telecom.example,Telecom,EMEA,Standard,100k-250k,2022-09-27,2026-12-03,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-01-13,0,,10
+ACC-8974,Summit Foods,summit-foods.example,Food & Beverage,LATAM,Enterprise,250k-500k,2019-12-12,2027-02-25,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,2026-04-17,7
+ACC-3620,Coastal Systems,coastal-systems.example,Technology,EMEA,Standard,<100k,2019-09-22,2026-12-15,Integrations;Platform;Sourcing;Supplier Management;eProcurement,,1,,8
+ACC-1353,Ironleaf Retail Group,ironleaf-retail-group.example,Retail,EMEA,Enterprise,500k-1M,2023-07-10,2027-03-14,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-09-15,0,2026-06-08,8
+ACC-3758,Frostline Energy,frostline-energy.example,Energy,North America,Enterprise,500k-1M,2024-06-22,2027-07-14,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,,1,2026-06-02,10
+ACC-3116,Bluepeak Brands,bluepeak-brands.example,Consumer Goods,APAC,Standard,<100k,2024-07-27,2027-08-28,Contracts;Platform;Spend Analytics;eInvoice;eProcurement,2023-04-14,1,,8
+ACC-5377,Summit Financial,summit-financial.example,Financial Services,LATAM,Standard,100k-250k,2025-02-21,2027-09-07,Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2025-02-05,0,,6
+ACC-4722,Suncrest Telecom,suncrest-telecom.example,Telecom,EMEA,Premium,500k-1M,2021-05-15,2026-11-04,Contracts;Integrations;Platform;Spend Analytics;eProcurement,,0,2026-06-08,8
+ACC-5460,Bluepeak Logistics,bluepeak-logistics.example,Logistics,North America,Enterprise,500k-1M,2023-05-02,2027-07-01,Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2024-09-01,0,2026-08-27,9
+ACC-6812,Brightfield Pharma,brightfield-pharma.example,Pharmaceuticals,LATAM,Premium,500k-1M,2022-04-15,2027-04-23,Contracts;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-09-01,0,2026-09-29,7
+ACC-7631,Tidewater Energy,tidewater-energy.example,Energy,APAC,Standard,100k-250k,2020-12-07,2027-06-05,Contracts;Integrations;Platform;Sourcing;Spend Analytics,2026-01-10,0,,8
+ACC-5048,Granite Foods,granite-foods.example,Food & Beverage,LATAM,Enterprise,500k-1M,2023-02-28,2027-01-10,Contracts;Platform;Supplier Management;eInvoice;eProcurement,2023-08-17,0,2026-05-04,8
+ACC-1866,Westwind Energy,westwind-energy.example,Energy,North America,Standard,<100k,2025-01-12,2027-08-11,Contracts;Platform;Supplier Management;eProcurement,2024-05-14,0,,
+ACC-4960,Redcliff Financial,redcliff-financial.example,Financial Services,LATAM,Enterprise,500k-1M,2019-09-01,2027-01-02,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2024-07-28,0,2026-09-01,8
+ACC-7708,Evergreen Retail Group,evergreen-retail-group.example,Retail,North America,Standard,<100k,2019-02-05,2027-03-08,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,2022-06-11,0,,8
+ACC-9042,Clearwater Brands,clearwater-brands.example,Consumer Goods,North America,Premium,1M+,2023-01-07,2027-09-27,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,,1,2026-05-19,8
+ACC-5075,Granite Retail Group,granite-retail-group.example,Retail,EMEA,Enterprise,250k-500k,2024-09-03,2027-02-04,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,1,2026-07-19,8
+ACC-1167,Suncrest Health,suncrest-health.example,Healthcare,North America,Enterprise,250k-500k,2019-10-01,2027-02-08,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2021-01-23,0,2026-04-15,9
+ACC-3754,Silverline Materials,silverline-materials.example,Industrial,North America,Premium,1M+,2025-06-08,2027-08-14,Integrations;Platform;eInvoice;eProcurement,,0,2026-07-06,8
+ACC-9700,Copperfield Pharma,copperfield-pharma.example,Pharmaceuticals,APAC,Standard,100k-250k,2019-04-03,2027-04-04,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,2025-04-24,0,,
+ACC-5419,Westwind Logistics,westwind-logistics.example,Logistics,EMEA,Standard,100k-250k,2022-06-24,2026-12-30,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eProcurement,2026-04-01,0,,
+ACC-7469,Ironleaf Health,ironleaf-health.example,Healthcare,North America,Premium,500k-1M,2023-08-18,2026-11-16,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2022-08-08,3,2026-05-02,8
+ACC-8094,Ironleaf Telecom,ironleaf-telecom.example,Telecom,LATAM,Standard,100k-250k,2025-05-27,2027-05-18,Integrations;Platform;Sourcing;Spend Analytics,2023-02-16,0,,8
+ACC-2717,Starling Energy,starling-energy.example,Energy,EMEA,Standard,<100k,2024-10-20,2027-02-12,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2020-06-16,0,,8
+ACC-7273,Pinecrest Pharma,pinecrest-pharma.example,Pharmaceuticals,North America,Standard,<100k,2019-02-12,2027-09-30,Contracts;Platform;eProcurement,,0,,9
+ACC-4661,Tidewater Foods,tidewater-foods.example,Food & Beverage,APAC,Premium,1M+,2024-06-02,2027-10-08,Platform;Spend Analytics;Supplier Management;eInvoice,2026-02-24,1,2026-06-25,
+ACC-9243,Starling Telecom,starling-telecom.example,Telecom,APAC,Premium,500k-1M,2024-08-27,2026-12-07,Contracts;Integrations;Platform;Supplier Management;eInvoice;eProcurement,2025-02-26,0,2026-10-07,7
+ACC-7651,Lakeshore Foods,lakeshore-foods.example,Food & Beverage,EMEA,Enterprise,500k-1M,2019-11-15,2026-11-04,Contracts;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,,0,2026-04-03,5
+ACC-7422,Clearwater Utilities,clearwater-utilities.example,Utilities,APAC,Enterprise,500k-1M,2025-09-25,2027-04-10,Contracts;Platform;Spend Analytics;eInvoice,2024-03-17,0,2026-05-02,10
+ACC-9509,Northgate Foods,northgate-foods.example,Food & Beverage,North America,Standard,100k-250k,2020-10-15,2026-12-13,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management,2020-01-14,1,,5
+ACC-8679,Harbor Manufacturing,harbor-manufacturing.example,Manufacturing,EMEA,Premium,500k-1M,2025-10-28,2026-10-28,Contracts;Platform;Supplier Management;eProcurement,,0,2026-09-22,7
+ACC-7960,Starling Systems,starling-systems.example,Technology,APAC,Standard,100k-250k,2024-05-22,2026-11-17,Integrations;Platform;Sourcing;Supplier Management;eProcurement,,0,,9
+ACC-4616,Frostline Health,frostline-health.example,Healthcare,LATAM,Enterprise,500k-1M,2025-11-19,2027-02-22,Contracts;Platform;Spend Analytics;eProcurement,2022-03-18,0,2026-09-22,8
+ACC-2797,Clearwater Telecom,clearwater-telecom.example,Telecom,North America,Premium,1M+,2022-01-21,2027-06-27,Platform;Supplier Management;eProcurement,2025-03-01,0,2026-07-10,8
+ACC-8300,Coastal Health,coastal-health.example,Healthcare,North America,Standard,<100k,2022-07-18,2027-08-07,Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,,6
+ACC-1723,Clearwater Industries,clearwater-industries.example,Industrial,North America,Standard,100k-250k,2019-06-28,2027-02-28,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2026-07-03,0,,9
+ACC-4276,Oakridge Materials,oakridge-materials.example,Industrial,LATAM,Standard,<100k,2019-04-28,2027-06-16,Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2023-04-25,1,,10
+ACC-2262,Ironleaf Industries,ironleaf-industries.example,Industrial,LATAM,Standard,100k-250k,2021-02-16,2027-08-19,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2022-06-07,1,,8
+ACC-7134,Pinecrest Health,pinecrest-health.example,Healthcare,LATAM,Enterprise,250k-500k,2023-08-15,2027-07-22,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2020-05-02,0,2026-10-09,
+ACC-2159,Brightfield Health,brightfield-health.example,Healthcare,APAC,Standard,100k-250k,2025-06-06,2027-06-15,Contracts;Platform;Supplier Management;eProcurement,2021-05-07,1,,8
+ACC-9188,Redcliff Health,redcliff-health.example,Healthcare,APAC,Standard,100k-250k,2019-10-18,2027-09-14,Contracts;Integrations;Platform;Sourcing;eInvoice,,0,,8
+ACC-4305,Summit Retail Group,summit-retail-group.example,Retail,APAC,Enterprise,500k-1M,2021-07-12,2027-07-06,Contracts;Integrations;Platform;Spend Analytics,,0,2026-06-02,8
+ACC-9862,Frostline Foods,frostline-foods.example,Food & Beverage,EMEA,Enterprise,250k-500k,2022-07-24,2026-11-14,Contracts;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2025-05-12,0,2026-06-26,10
+ACC-5198,Redcliff Brands,redcliff-brands.example,Consumer Goods,North America,Standard,100k-250k,2022-03-24,2026-11-26,Contracts;Platform;Sourcing;Supplier Management,2023-05-13,0,,6
+ACC-8406,Suncrest Logistics,suncrest-logistics.example,Logistics,EMEA,Standard,100k-250k,2022-07-15,2027-09-22,Contracts;Platform;Supplier Management;eInvoice;eProcurement,2026-02-16,0,,8
+ACC-1630,Evergreen Telecom,evergreen-telecom.example,Telecom,LATAM,Standard,100k-250k,2023-08-04,2027-07-25,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,,9
+ACC-9846,Clearwater Health,clearwater-health.example,Healthcare,APAC,Standard,<100k,2024-04-12,2027-10-14,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2025-08-01,0,,8
+ACC-5385,Harbor Systems,harbor-systems.example,Technology,APAC,Premium,1M+,2022-05-24,2027-08-22,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,1,2026-04-03,6
+ACC-6758,Meadowbrook Retail Group,meadowbrook-retail-group.example,Retail,EMEA,Enterprise,500k-1M,2019-11-27,2027-05-04,Contracts;Platform;Sourcing;Spend Analytics;eProcurement,,1,2026-07-20,7
+ACC-5575,Granite Energy,granite-energy.example,Energy,North America,Enterprise,500k-1M,2023-02-14,2027-06-04,Platform;Sourcing;eInvoice,,0,2026-05-26,
+ACC-7090,Lakeshore Utilities,lakeshore-utilities.example,Utilities,APAC,Standard,100k-250k,2021-06-04,2027-06-07,Integrations;Platform;Supplier Management;eInvoice;eProcurement,2025-04-20,1,,9
+ACC-9836,Stonebridge Manufacturing,stonebridge-manufacturing.example,Manufacturing,LATAM,Standard,100k-250k,2020-07-11,2027-08-23,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2024-06-11,3,,8
+ACC-9594,Stonebridge Materials,stonebridge-materials.example,Industrial,North America,Premium,1M+,2025-06-19,2027-08-15,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,,0,2026-07-01,8
+ACC-4439,Summit Brands,summit-brands.example,Consumer Goods,LATAM,Standard,<100k,2021-12-16,2026-11-20,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2023-04-21,0,,9
+ACC-8596,Redcliff Retail Group,redcliff-retail-group.example,Retail,EMEA,Standard,100k-250k,2021-10-14,2027-08-13,Contracts;Integrations;Platform;Sourcing,2022-04-24,1,,8
+ACC-9057,Suncrest Energy,suncrest-energy.example,Energy,APAC,Premium,1M+,2021-03-10,2027-03-13,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,2021-01-21,0,2026-09-24,8
+ACC-3213,Oakridge Pharma,oakridge-pharma.example,Pharmaceuticals,North America,Standard,<100k,2022-11-18,2026-12-07,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice,2023-05-18,0,,6
+ACC-7682,Northgate Telecom,northgate-telecom.example,Telecom,EMEA,Premium,1M+,2021-07-07,2027-07-21,Contracts;Platform;Spend Analytics;Supplier Management;eInvoice,,0,2026-09-29,
+ACC-3983,Tidewater Pharma,tidewater-pharma.example,Pharmaceuticals,LATAM,Enterprise,500k-1M,2020-05-16,2027-06-11,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice,,0,2026-07-14,7
+ACC-5720,Bluepeak Health,bluepeak-health.example,Healthcare,APAC,Premium,1M+,2020-04-07,2027-09-28,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eProcurement,2022-02-10,2,2026-06-20,9
+ACC-4556,Highmark Foods,highmark-foods.example,Food & Beverage,EMEA,Enterprise,500k-1M,2025-07-10,2027-07-14,Integrations;Platform;Sourcing,2021-07-07,0,2026-04-07,10
+ACC-3699,Coastal Industries,coastal-industries.example,Industrial,APAC,Standard,100k-250k,2023-03-11,2026-12-30,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice,,1,,7
+ACC-3831,Oakridge Manufacturing,oakridge-manufacturing.example,Manufacturing,APAC,Premium,1M+,2021-01-14,2026-10-28,Contracts;Platform;Supplier Management;eInvoice,,0,2026-04-19,6
+ACC-6119,Evergreen Materials,evergreen-materials.example,Industrial,EMEA,Enterprise,500k-1M,2023-05-23,2027-04-20,Contracts;Integrations;Platform;Sourcing;eInvoice;eProcurement,,0,2026-06-15,8
+ACC-3311,Meadowbrook Financial,meadowbrook-financial.example,Financial Services,North America,Enterprise,500k-1M,2019-11-23,2026-11-10,Contracts;Integrations;Platform;Spend Analytics;eInvoice;eProcurement,2024-07-04,1,2026-04-12,9
+ACC-2544,Pinecrest Materials,pinecrest-materials.example,Industrial,EMEA,Enterprise,500k-1M,2019-02-19,2027-03-04,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,2026-06-23,9
+ACC-8714,Redcliff Foods,redcliff-foods.example,Food & Beverage,APAC,Enterprise,250k-500k,2023-01-17,2027-01-04,Integrations;Platform;Sourcing,2023-02-15,0,2026-06-22,6
+ACC-7130,Summit Systems,summit-systems.example,Technology,North America,Enterprise,250k-500k,2025-05-13,2026-11-30,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2020-08-13,0,2026-06-21,7
+ACC-2992,Oakridge Foods,oakridge-foods.example,Food & Beverage,APAC,Premium,500k-1M,2025-10-13,2027-09-26,Integrations;Platform;Sourcing;Spend Analytics;eInvoice,2022-05-03,0,2026-05-24,10
+ACC-2796,Oakridge Health,oakridge-health.example,Healthcare,EMEA,Standard,<100k,2021-11-15,2026-11-21,Contracts;Integrations;Platform;eInvoice;eProcurement,2023-04-20,0,,10
+ACC-4396,Pinecrest Telecom,pinecrest-telecom.example,Telecom,APAC,Standard,100k-250k,2024-08-07,2026-11-07,Contracts;Integrations;Platform;Spend Analytics;eInvoice,2021-01-20,1,,8
+ACC-3644,Stonebridge Financial,stonebridge-financial.example,Financial Services,LATAM,Enterprise,250k-500k,2019-09-12,2027-09-26,Contracts;Platform;Supplier Management;eProcurement,2025-06-02,0,2026-04-28,7
+ACC-7342,Pinecrest Brands,pinecrest-brands.example,Consumer Goods,EMEA,Standard,100k-250k,2022-02-07,2027-09-14,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management,,1,,8
+ACC-2734,Harbor Health,harbor-health.example,Healthcare,North America,Standard,<100k,2024-08-09,2027-08-01,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eProcurement,,1,,
+ACC-2576,Clearwater Retail Group,clearwater-retail-group.example,Retail,EMEA,Premium,500k-1M,2021-05-01,2027-07-20,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-06-19,0,2026-05-20,9
+ACC-9144,Pinecrest Manufacturing,pinecrest-manufacturing.example,Manufacturing,EMEA,Premium,500k-1M,2025-08-23,2026-12-14,Platform;Spend Analytics;Supplier Management;eInvoice,2023-09-15,0,2026-10-07,10
+ACC-3405,Ironleaf Foods,ironleaf-foods.example,Food & Beverage,North America,Premium,1M+,2023-06-28,2027-03-07,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2021-02-24,0,2026-05-24,7
+ACC-9463,Meadowbrook Health,meadowbrook-health.example,Healthcare,APAC,Enterprise,250k-500k,2019-06-08,2026-11-25,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2021-06-05,0,2026-04-25,
+ACC-5931,Summit Energy,summit-energy.example,Energy,LATAM,Standard,100k-250k,2025-05-09,2027-08-24,Contracts;Integrations;Platform;Sourcing;Spend Analytics;eInvoice;eProcurement,2026-08-09,0,,9
+ACC-9758,Oakridge Energy,oakridge-energy.example,Energy,LATAM,Standard,<100k,2025-03-23,2027-06-14,Contracts;Platform;Sourcing;Supplier Management;eInvoice,2026-03-23,0,,10
+ACC-2312,Northgate Systems,northgate-systems.example,Technology,North America,Standard,100k-250k,2024-12-03,2026-11-07,Platform;Spend Analytics;Supplier Management;eInvoice,,1,,
+ACC-1164,Highmark Industries,highmark-industries.example,Industrial,North America,Enterprise,250k-500k,2021-08-22,2027-04-26,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,1,2026-04-06,8
+ACC-2086,Bluepeak Energy,bluepeak-energy.example,Energy,LATAM,Premium,1M+,2020-05-23,2027-08-24,Integrations;Platform;Sourcing;Supplier Management;eProcurement,2026-04-12,0,2026-06-27,5
+ACC-6876,Harbor Financial,harbor-financial.example,Financial Services,LATAM,Premium,500k-1M,2022-12-11,2026-10-29,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2020-07-05,3,2026-04-13,8
+ACC-4447,Lakeshore Materials,lakeshore-materials.example,Industrial,LATAM,Premium,500k-1M,2025-02-21,2026-11-02,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2022-05-18,1,2026-10-08,8
+ACC-6093,Ironleaf Materials,ironleaf-materials.example,Industrial,North America,Standard,100k-250k,2024-06-21,2026-12-06,Contracts;Integrations;Platform;eProcurement,2026-05-08,0,,
+ACC-4956,Coastal Retail Group,coastal-retail-group.example,Retail,LATAM,Standard,100k-250k,2021-12-22,2027-03-14,Contracts;Integrations;Platform;Spend Analytics;eProcurement,2026-04-02,3,,5
+ACC-4561,Copperfield Logistics,copperfield-logistics.example,Logistics,North America,Premium,1M+,2022-03-11,2027-07-14,Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2024-04-09,0,2026-05-20,8
+ACC-1994,Oakridge Systems,oakridge-systems.example,Technology,EMEA,Premium,1M+,2025-05-23,2027-07-04,Contracts;Platform;eProcurement,2026-01-06,0,2026-08-06,
+ACC-4341,Riverbend Energy,riverbend-energy.example,Energy,LATAM,Enterprise,250k-500k,2024-02-17,2027-05-05,Contracts;Platform;Spend Analytics;eInvoice,,0,2026-08-31,9
+ACC-4062,Highmark Systems,highmark-systems.example,Technology,LATAM,Standard,100k-250k,2021-08-13,2027-02-14,Contracts;Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2020-07-05,0,,9
+ACC-6498,Harbor Telecom,harbor-telecom.example,Telecom,LATAM,Standard,100k-250k,2024-11-18,2027-07-15,Contracts;Platform;Sourcing;Spend Analytics;eInvoice,,0,,7
+ACC-5059,Evergreen Industries,evergreen-industries.example,Industrial,EMEA,Enterprise,500k-1M,2020-03-25,2027-05-25,Contracts;Integrations;Platform;Supplier Management;eInvoice,2021-06-02,0,2026-05-26,8
+ACC-2292,Highmark Logistics,highmark-logistics.example,Logistics,LATAM,Enterprise,500k-1M,2022-07-14,2026-11-03,Contracts;Integrations;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2025-03-03,0,2026-07-04,
+ACC-2711,Granite Systems,granite-systems.example,Technology,APAC,Standard,100k-250k,2024-05-06,2027-03-19,Contracts;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice;eProcurement,2026-09-01,0,,6
+ACC-2271,Starling Materials,starling-materials.example,Industrial,North America,Standard,100k-250k,2019-05-20,2027-06-03,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,2026-09-02,0,,10
+ACC-5744,Clearwater Foods,clearwater-foods.example,Food & Beverage,North America,Enterprise,250k-500k,2022-10-06,2027-03-16,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,2025-08-09,0,2026-04-03,10
+ACC-5832,Starling Retail Group,starling-retail-group.example,Retail,LATAM,Enterprise,500k-1M,2022-12-10,2027-07-30,Integrations;Platform;Sourcing;Supplier Management;eProcurement,,0,2026-07-22,8
+ACC-2421,Brightfield Foods,brightfield-foods.example,Food & Beverage,LATAM,Premium,1M+,2023-12-03,2027-06-03,Integrations;Platform;Sourcing;eProcurement,,0,2026-04-12,
+ACC-4236,Westwind Manufacturing,westwind-manufacturing.example,Manufacturing,LATAM,Enterprise,500k-1M,2022-01-20,2026-12-10,Contracts;Platform;Supplier Management;eProcurement,2026-06-18,0,2026-09-30,9
+ACC-2182,Highmark Brands,highmark-brands.example,Consumer Goods,North America,Premium,500k-1M,2021-03-07,2027-07-08,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,,1,2026-07-05,7
+ACC-2401,Highmark Manufacturing,highmark-manufacturing.example,Manufacturing,North America,Enterprise,500k-1M,2022-12-23,2027-02-05,Contracts;Integrations;Platform;eInvoice;eProcurement,,0,2026-09-12,8
+ACC-7343,Riverbend Brands,riverbend-brands.example,Consumer Goods,North America,Enterprise,250k-500k,2025-03-22,2026-10-31,Contracts;Platform;Sourcing;Supplier Management;eInvoice;eProcurement,2023-08-27,1,2026-10-01,5
+ACC-2754,Summit Health,summit-health.example,Healthcare,North America,Premium,1M+,2025-02-06,2027-03-27,Integrations;Platform;Spend Analytics;Supplier Management,,0,2026-08-29,8
+ACC-5335,Northgate Utilities,northgate-utilities.example,Utilities,North America,Enterprise,250k-500k,2023-02-17,2026-12-12,Platform;Sourcing;Spend Analytics;Supplier Management;eProcurement,,1,2026-09-12,8
+ACC-2508,Redcliff Systems,redcliff-systems.example,Technology,North America,Enterprise,500k-1M,2025-09-06,2027-09-14,Contracts;Platform;eInvoice,2021-04-17,1,2026-05-07,8
+ACC-6041,Starling Brands,starling-brands.example,Consumer Goods,EMEA,Enterprise,500k-1M,2024-09-11,2026-10-25,Platform;Sourcing;Supplier Management;eInvoice;eProcurement,,1,2026-05-14,9
+ACC-1739,Northgate Logistics,northgate-logistics.example,Logistics,APAC,Enterprise,250k-500k,2022-03-19,2027-07-07,Contracts;Platform;Sourcing;Spend Analytics;eProcurement,,0,2026-07-27,5
+ACC-4178,Copperfield Energy,copperfield-energy.example,Energy,APAC,Premium,500k-1M,2023-03-06,2027-07-20,Contracts;Integrations;Platform;Sourcing;Spend Analytics;Supplier Management;eInvoice,,0,2026-06-03,9
+ACC-1620,Ironleaf Financial,ironleaf-financial.example,Financial Services,North America,Standard,100k-250k,2021-11-14,2027-08-22,Integrations;Platform;Spend Analytics;Supplier Management;eInvoice;eProcurement,2024-08-01,0,,10

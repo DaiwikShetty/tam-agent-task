@@ -1,0 +1,81 @@
+{
+  "ticket_id": "TKT-144939",
+  "account_id": "ACC-3751",
+  "category": "incident",
+  "priority": "P1",
+  "route_to": "L2_engineering",
+  "escalate": true,
+  "notify_tam": true,
+  "duplicate_of": null,
+  "needs_clarification": false,
+  "kb_references": [
+    "KB-2914",
+    "KB-3985"
+  ],
+  "account_signals": [
+    "Premium tier account",
+    "Active incident KB-3985 applies (INC-26-0418)",
+    "Month-end AP close deadline (1,200 invoices queued)"
+  ],
+  "customer_reply": "Hello,\n\nWe are aware of an active incident (INC-26-0418) causing invoice OCR jobs to fail with error E-4102 following release 26.2.3. Our engineering team is currently working on a hotfix for this issue.\n\nAs a temporary workaround for your month-end processing:\n1. You can switch affected invoice channels to Manual Entry mode under Admin > eInvoice > Channels.\n2. Hold month-end OCR batches until the hotfix is deployed, or process critical invoices manually.\n\nPlease do not re-upload invoices or clear caches as this will not resolve the issue. We will update you as soon as further news or a fix is available.",
+  "internal_note": "Ticket linked to active incident INC-26-0418 / KB-3985 (Invoice OCR jobs fail with E-4102 after release 26.2.3). Customer AP team is blocked with ~1,200 invoices for month-end close. Categorized as P1 per active incident handling guidelines and KB-2914 (all OCR processing blocked for tenant). Account is Premium tier, so notifying TAM per KB-3985 instructions. Escalated and routed to L2 Engineering.",
+  "confidence": 1.0,
+  "reasoning_trace": [
+    {
+      "step": 1,
+      "action": "read_kb_article",
+      "input": "{\"article_id\": \"KB-2914\"}",
+      "observation": "KB-2914[policy,current] Support priority and escalation policy; related=['KB-6401', 'KB-5930']",
+      "thought": "Read support priority and escalation policy to understand rules for P1/P2/P3/P4 and escalation criteria."
+    },
+    {
+      "step": 2,
+      "action": "resolve_account",
+      "input": "{\"domain\": \"brightfield-manufacturing.example\"}",
+      "observation": "ACC-3751 (Brightfield Manufacturing) via domain_exact",
+      "thought": "Resolve account domain to ensure correct account context and check account details."
+    },
+    {
+      "step": 3,
+      "action": "get_account_profile",
+      "input": "{\"account_id\": \"ACC-3751\"}",
+      "observation": "Brightfield Manufacturing: Premium, renewal in 45d, escalations=0, SSO change n/ad ago, module licensed=True, risk-override conditions met=False",
+      "thought": "Get account profile to check tier, renewal window, open escalations, etc."
+    },
+    {
+      "step": 4,
+      "action": "search_kb",
+      "input": "{\"error_code\": \"E-4102\", \"k\": 5, \"module\": \"eInvoice\", \"query\": \"E-4102 OCR scanned invoices failing\", \"type\": null}",
+      "observation": "KB-3985[known_issue,active_incident] KNOWN ISSUE: Invoice OCR jobs fail with E-4102 af\u2026; KB-7914[troubleshooting,current] E-4102: Invoice ocr job stays stuck in processing; KB-3539[troubleshooting,current] E-4320: Invoice ocr job fails to save; KB-9799[troubleshooting,current] E-4211: Invoice ocr job returns a validation error",
+      "thought": "Search KB for error code E-4102 and OCR processing failures in eInvoice module."
+    },
+    {
+      "step": 5,
+      "action": "read_kb_article",
+      "input": "{\"article_id\": \"KB-3985\"}",
+      "observation": "KB-3985[known_issue,active_incident] KNOWN ISSUE: Invoice OCR jobs fail with E-4102 after releas\u2026; related=['KB-7914', 'KB-2914']; this article describes an ACTIVE INCIDENT; check whether the ticket matches its symptoms",
+      "thought": "Read KB-3985 which has status active_incident for error E-4102 to get details and support handling instructions."
+    },
+    {
+      "step": 6,
+      "action": "search_tickets",
+      "input": "{\"account_id\": \"ACC-3751\", \"days\": 7, \"error_code\": \"E-4102\", \"query\": \"\"}",
+      "observation": "0 matches: none; same code last 48h: 2 tickets/2 accounts",
+      "thought": "Check for existing/duplicate tickets for this account to make sure we're not dealing with a duplicate."
+    },
+    {
+      "step": 7,
+      "action": "get_usage_trend",
+      "input": "{\"account_id\": \"ACC-3751\"}",
+      "observation": "usage stable: active users -7.3% over last 3 months, 9.1% below peak",
+      "thought": "Check usage trend for ACC-3751 to confirm if any TAM notification or risk signals apply, though KB-3985 explicitly states 'Notify the TAM for Premium accounts'."
+    },
+    {
+      "step": 8,
+      "action": "submit_triage",
+      "input": "{\"category\": \"incident\", \"duplicate_of\": null, \"escalate\": true, \"notify_tam\": true, \"priority\": \"P1\", \"route_to\": \"L2_engineering\"}",
+      "observation": "decision submitted",
+      "thought": "All required investigation complete. KB-3985 specifies P1 for tenants with all OCR blocked, route to L2 Engineering, link to INC-26-0418, notify TAM for Premium accounts, set escalate=true per KB-2914 for P1. Submit triage decision."
+    }
+  ]
+}
